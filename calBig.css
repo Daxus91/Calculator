@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.row{
+    display: flex;
+}
+
+.inp1{
+    width: 400px;
+}
+
+.number{
+    width: 100px;
+}
+
+.interaction{
+    width: 100px;
+}
+
+.clear{
+    width: 100px;
+}
